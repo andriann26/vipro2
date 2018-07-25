@@ -23,7 +23,7 @@ class LINE:
   def __init__(self):
     self.Talk = Talk()
     self._session = requests.session() 
-    self._headers = {'X-Line-Application': 'CHROMEOS\t1.4.17\tChrome_OS\t1'}    
+    self._headers = {'X-Line-Application': 'CHROMEOS/2.1.5/Chrome_OS/1'}    
 
   def login(self, mail=None, passwd=None, cert=None, token=None, qr=False, callback=None):
     if callback is None:
