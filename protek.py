@@ -46,7 +46,7 @@ vipro.login(token='token')
 vipro.loginResult()
 print "Vipro-Login Success\n"
 
-km = LINETCR.LINE() #(bot ini di luar grup fungsinya jadi algojo kaya kicker siri)
+km = LINETCR.LINE() #(EvdWnzMTArUiZXFXD5p8.kKbosyYPWzOnDflX0dbQca.HFL1tUnm+zG7j9ADFSi/g6MWuszwE1Togosi2vmKBe0=)
 #km.login(qr=True)
 km.login(token='token')
 km.loginResult()
