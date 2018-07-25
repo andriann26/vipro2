@@ -40,7 +40,7 @@ kr.login(token='token')
 kr.loginResult()
 print "Kr-Login Success\n"
 
-vipro = LINETCR.LINE() #(isi dengan akun utama fungsinya biar akun utama di kick langsung di invite bot)
+vipro = LINETCR.LINE() #(EvK3Ctqfp6SYPGvTgfp6.05HuNgTRa30CkmJIroZevG.SeNdyzbJ3lMyXgA7bP4hOXO6RnOknsNWRLte3IbpYAI=)
 #vipro.login(qr=True)
 vipro.login(token='token')
 vipro.loginResult()
